@@ -1,0 +1,11 @@
+HOW TO PLAY:
+ * USE THE DIRECTIONAL KEYS or
+ * USE THE MOUSE - DRAG HOLDING LMB (click & drag) or
+ * USE THE LEFT STICK OF A GAMEPAD
+
+Beat the mouse before it eats all the food.
+Drive the mouse into traps to get points or catch up to the mouse and take a bit of its hp off.
+When the mouse's hp reaches 0 you win.
+If the mouse eats all the food you lose.
+
+The game probably still has some bugs left but try to have fun.
