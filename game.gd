@@ -198,14 +198,14 @@ func squeak():
 		return
 	if(sfx.is_voice_active(squeak) == false):
 		squeak = sfx.play("squeak")
-		sfx.set_volume(squeak, 0.3)
+		#sfx.set_volume(squeak, 0.3)
 
 func meow():
 	if(gameWon || gameOver):
 		return
 	if(sfx.is_voice_active(meow) == false):
 		meow = sfx.play("meow")
-		sfx.set_volume(meow, 0.2)
+		#sfx.set_volume(meow, 0.2)
 
 func _fixed_process(delta):
 	if(cat.get_pos().distance_squared_to(mouse.get_pos()) <= 5625):

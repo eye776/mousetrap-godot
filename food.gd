@@ -51,6 +51,6 @@ func _process(delta):
 		else:
 			if(sfx.is_voice_active(eating) == false):
 				eating = sfx.play("eating")
-				sfx.set_volume(eating, 0.3)
+				#sfx.set_volume(eating, 0.3)
 			rand_food()
 		foodText.set_text(str("FOOD: ", food))
